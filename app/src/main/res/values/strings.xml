@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="title_activity_about_team">AboutTeam</string>
+</resources>

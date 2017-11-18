@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sonalirai.moviemania.Win"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="368dp"
+        tools:layout_editor_absoluteY="2dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:id="@+id/imageView"
+        android:layout_weight="0.06"
+        android:layout_margin="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go back to play more!"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:textSize="20dp"/>
+
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:layout_marginTop="18dp"
+        android:layout_gravity="center"
+        android:onClick="replay"
+        android:text="SETTINGS"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="405dp"
+    />
+
+</LinearLayout>

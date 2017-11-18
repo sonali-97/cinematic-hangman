@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sonali Rai\.android\build-cache\56b0fb836864c6ea6105013030a8718c0d3fc129\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Sonali Rai\AndroidStudioProjects\MovieMania2\app\build\intermediates\pre-dexed\debug\classes_efc48daa5cd42c4bdc7bb92354cc58f43cee2993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sonali Rai\.android\build-cache\687fe4d0ecd266abce0d377be8c563c596901602\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Sonali Rai\AndroidStudioProjects\MovieMania2\app\build\intermediates\pre-dexed\debug\classes_b07f2fab6878c1c611072cf9dcc11cf9af16bda6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sonali Rai\.android\build-cache\2e84b562e17c076cf6f7a4fb7b0150c864399f36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Sonali Rai\AndroidStudioProjects\MovieMania2\app\build\intermediates\pre-dexed\debug\classes_c3f446fbdde9028cd019799e1ca99d8acdd0a25d.jar" />
+    </item>
+
+</items>
